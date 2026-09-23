@@ -1,4 +1,4 @@
-hi Nick, i built a working mcp agent platform with live tool execution for you: https://mcp-agent-platform.vercel.app
+hi Nick, i built a working mcp agent platform with live tool execution for you: https://mcp-agent-platform-psi.vercel.app
 code: https://github.com/exelentshakil/mcp-agent-platform | portfolio: https://shakilhq.com
 
 i set up the demo around real mcp tool execution rather than a basic chat loop:
